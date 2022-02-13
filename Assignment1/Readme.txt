@@ -4,6 +4,9 @@ https://www.kaggle.com/aishu2218/shill-bidding-dataset
 Dataset 2 download URL:
 https://www.kaggle.com/ankurbajaj9/obesity-levels
 
+Code download URL:
+https://github.com/ccyy88/CS7641/tree/main/Assignment1
+
 Environment: python > 3.6, scikit-learn 1.0.2
 
 The project contains the following files:
